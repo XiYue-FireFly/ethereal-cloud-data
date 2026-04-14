@@ -86,57 +86,13 @@
     }
   ],
   "timeline": [
-    {
-      "id": "1",
-      "title": "学习计算机科学与技术",
-      "subtitle": "北京理工大学",
-      "description": "重点学习网页开发和软件工程。",
-      "date": "2022年9月至今",
-      "duration": "3年9个月",
-      "location": "北京",
-      "category": "教育背景",
-      "tags": [
-        "Java",
-        "Python",
-        "JS"
-      ],
-      "achievements": [
-        "GPA: 3.6"
-      ],
-      "isCurrent": true
-    }
+    
   ],
   "anime": [
-    {
-      "id": "1",
-      "title": "莉可丽丝",
-      "rating": 9.8,
-      "year": "2022",
-      "studio": "A-1 Pictures",
-      "genres": [
-        "动作",
-        "校园"
-      ],
-      "episodes": 13,
-      "totalEpisodes": 13,
-      "status": "completed",
-      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCo3E2C-Ng4ecORbgB26oplxL8Q91x8OGxdQUrSPnhhdXYRheWSAbwOruZJTQ_isvlZqCC4EQIOe1W0BH5h_Fyq7fVOTjx68UBbIE2xvdt8w4UNOFaGBN3omJRmQn83-Eyqg6byNTp-KldM_uXVarr3-k0dLTLrYQiyl7ZtahBu7zSN6EXksIWnzVP4GsZ846jwuXUI1F-VP240mrMbfIilnEyiubKj36-tHBmoukGHa8uJ0VyZxujDUQH7sBxL4nke47L2XeqnSoM"
-    }
+    
   ],
   "albums": [
-    {
-      "id": "1",
-      "title": "一些很漂亮的照片",
-      "description": "世界辽阔，你必须去探索它。",
-      "date": "2025/8/1",
-      "location": "Bilibili",
-      "photoCount": 22,
-      "tags": [
-        "可爱"
-      ],
-      "category": "可爱",
-      "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuAch3rk_HZenJtNRENZ4S9thte1lpXZi4AWCgP4qsEzyl4o2ae5wZuaYoqsH7_J2UpCMslliwoCT4tBMP0OJhftTo7qJrhsayTHQVg0yWSByhRJCeJXM1rz8IaHbjexBwyz_jjCh1ik9gfiK7pVRMiEU8Q2o1JfEBxnMTVSsHZNfLkqLY7ogg36itbv5HHkvQvZOAUB7ix_eoAnHtxIHMXTy_VN-dFV4l750QZ66WATbcf8JZxjeazh0h-k0RuDs-4dN06r61dLBJ4"
-    }
+   
   ],
   "memories": [
     {
@@ -209,7 +165,7 @@
   "activities": [],
   "about": {
     "introduction": [
-      "我自称「灵犀」，一名在二进制世界里寻找诗意的编梦人。从京都的清晨薄雾到赛博朋克的雨后霓虹，我的视觉语汇始终游走在两个世界的边界。",
+      "我自称「沐雪聆曦」，一名在二进制世界里寻找诗意的编梦人。从京都的清晨薄雾到赛博朋克的雨后霓虹，我的视觉语汇始终游走在两个世界的边界。",
       "我相信每一处代码的逻辑背后都潜藏着情感的脉动。这里不仅是信息的堆砌，更是一场关于光影、叙事与审美自觉的持久探索。于漫长岁月中，寻觅那一张不谢的繁华。"
     ],
     "quote": "“于漫长岁月中，寻觅那一张不谢的繁华。”",
