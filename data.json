@@ -100,20 +100,7 @@
     }
   ],
   "anime": [],
-  "albums": [
-    {
-      "title": "Test Album",
-      "description": "Test Description",
-      "date": "2026/4/15",
-      "location": "",
-      "photoCount": 0,
-      "tags": [],
-      "coverImage": "https://picsum.photos/400/300",
-      "category": "全部",
-      "images": [],
-      "id": "1776185266179"
-    }
-  ],
+  "albums": [],
   "memories": [
     {
       "id": 1776176577613,
@@ -159,6 +146,13 @@
     }
   ],
   "activities": [
+    {
+      "type": "delete",
+      "message": "删除了相册《Test Album》",
+      "target": "数字专辑",
+      "id": "7js5pgunt",
+      "time": "00:59"
+    },
     {
       "type": "create",
       "message": "新建了相册《Test Album》",
