@@ -59,7 +59,17 @@
       "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAch3rk_HZenJtNRENZ4S9thte1lpXZi4AWCgP4qsEzyl4o2ae5wZuaYoqsH7_J2UpCMslliwoCT4tBMP0OJhftTo7qJrhsayTHQVg0yWSByhRJCeJXM1rz8IaHbjexBwyz_jjCh1ik9gfiK7pVRMiEU8Q2o1JfEBxnMTVSsHZNfLkqLY7ogg36itbv5HHkvQvZOAUB7ix_eoAnHtxIHMXTy_VN-dFV4l750QZ66WATbcf8JZxjeazh0h-k0RuDs-4dN06r61dLBJ4"
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "java",
+      "exp": "菜鸟",
+      "level": "初学者",
+      "progress": 10,
+      "icon": "Terminal",
+      "color": "text-blue-500",
+      "bg": "bg-blue-50"
+    }
+  ],
   "secondarySkills": [
     "Three.js",
     "Docker",
@@ -123,6 +133,13 @@
     }
   ],
   "activities": [
+    {
+      "type": "create",
+      "message": "点亮了新技能节点《java》",
+      "target": "个人品牌",
+      "id": "w5nm7ys89",
+      "time": "00:40"
+    },
     {
       "type": "publish",
       "message": "添加了新曲目: 打上花火",
