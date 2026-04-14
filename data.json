@@ -100,7 +100,40 @@
     }
   ],
   "anime": [],
-  "albums": [],
+  "albums": [
+    {
+      "title": "二次元",
+      "description": "二次元万岁",
+      "date": "2026/4/15",
+      "location": "mihoyo",
+      "photoCount": 19,
+      "tags": [],
+      "coverImage": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776193318186_12815.jpg",
+      "category": "全部",
+      "images": [
+        "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776193401549_7267.jpg",
+        "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776193403990_659.jpg",
+        "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776193405372_2412.png",
+        "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776193406819_2407.jpg",
+        "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776193408204_2404.jpg",
+        "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776193409441_2403.jpg",
+        "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776193410852_2402.jpg",
+        "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776193412313_2410.png",
+        "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776193413776_2408.png",
+        "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776193415133_2409.png",
+        "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776193416552_657.jpg",
+        "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776193418013_656.jpg",
+        "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776193419699_5525.png",
+        "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776193421133_5524.jpg",
+        "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776193422487_5526.png",
+        "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776193423745_658.jpg",
+        "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776193425161_655.jpg",
+        "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776193426342_660.jpg",
+        "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776193427762_2406.png"
+      ],
+      "id": "1776193363212"
+    }
+  ],
   "memories": [
     {
       "id": 1776176577613,
@@ -146,6 +179,20 @@
     }
   ],
   "activities": [
+    {
+      "type": "edit",
+      "message": "编辑了相册《二次元》",
+      "target": "数字专辑",
+      "id": "zcixsjvb5",
+      "time": "03:03"
+    },
+    {
+      "type": "create",
+      "message": "新建了相册《二次元》",
+      "target": "数字专辑",
+      "id": "san370ddc",
+      "time": "03:02"
+    },
     {
       "type": "delete",
       "message": "删除了相册《Test Album》",
