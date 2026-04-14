@@ -90,10 +90,6 @@
   "albums": [],
   "memories": [
     {
-      "id": 1,
-      "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuA8XA3l2qKnYY8GpLpoytbfu5z-ddwi8YLgF1HGa70TK8rfyXHBNSdI36rW3-9KYlYiMfs4uqfKMl8Z0ZQoJpo8iB7tZjvjL-YUpqIUcdH_Uiicboigg16zjFrJFbPZwns4vq5-ws2gMioUFMg1T3XyUUYK19474xMdEbOSRlZowQmzYjlF1GP0HvnCBhqpKJCV16JceHToMnaQVs6_XLyl0MJb8lMq4uwDsps4T4iHUV1xiaPUXQY6289yLCJnjM7jXPOGG_CFL1k"
-    },
-    {
       "id": 1776176577613,
       "src": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776156199834_35de2acba9dbacf1a9c9f73fa6102345.jpg"
     },
@@ -104,14 +100,6 @@
     {
       "id": 1776176576853,
       "src": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776162145237_68b0bb6eb14145e958a4e3a438e36edc_1_.webp"
-    },
-    {
-      "id": 1776176577598,
-      "src": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776165612045______2025-08-05_124145_578.webp"
-    },
-    {
-      "id": 1776176577064,
-      "src": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776165663571_35de2acba9dbacf1a9c9f73fa6102345.jpg"
     },
     {
       "id": 1776176577289,
@@ -149,6 +137,27 @@
     }
   ],
   "activities": [
+    {
+      "type": "delete",
+      "message": "删除了一张记忆照片",
+      "target": "记忆长廊",
+      "id": "ueetros79",
+      "time": "23:59"
+    },
+    {
+      "type": "delete",
+      "message": "删除了一张记忆照片",
+      "target": "记忆长廊",
+      "id": "qj9plukm9",
+      "time": "23:59"
+    },
+    {
+      "type": "delete",
+      "message": "删除了一张记忆照片",
+      "target": "记忆长廊",
+      "id": "ajo9tesbw",
+      "time": "23:59"
+    },
     {
       "type": "delete",
       "message": "删除了一张记忆照片",
