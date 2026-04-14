@@ -85,7 +85,20 @@
       "progress": 85
     }
   ],
-  "timeline": [],
+  "timeline": [
+    {
+      "title": "高中毕业",
+      "subtitle": "****",
+      "description": "轻舟已过万重山",
+      "date": "2024年6月8日",
+      "duration": "",
+      "location": "不告诉你",
+      "category": "教育背景",
+      "tags": [],
+      "isCurrent": false,
+      "id": "1776184898688"
+    }
+  ],
   "anime": [],
   "albums": [],
   "memories": [
@@ -133,6 +146,13 @@
     }
   ],
   "activities": [
+    {
+      "type": "create",
+      "message": "标记了成长轨迹《高中毕业》",
+      "target": "个人品牌",
+      "id": "02myqaa3i",
+      "time": "00:41"
+    },
     {
       "type": "create",
       "message": "点亮了新技能节点《java》",
