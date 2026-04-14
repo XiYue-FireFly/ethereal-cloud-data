@@ -98,10 +98,6 @@
       "src": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776156199834_35de2acba9dbacf1a9c9f73fa6102345.jpg"
     },
     {
-      "id": 1776176577175,
-      "src": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776156894565_68b0bb6eb14145e958a4e3a438e36edc_1_.webp"
-    },
-    {
       "id": 1776176576797,
       "src": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776161605048______20250402201242.jpg"
     },
@@ -153,6 +149,13 @@
     }
   ],
   "activities": [
+    {
+      "type": "delete",
+      "message": "删除了一张记忆照片",
+      "target": "记忆长廊",
+      "id": "q10x74wkj",
+      "time": "23:59"
+    },
     {
       "type": "delete",
       "message": "删除了一张记忆照片",
