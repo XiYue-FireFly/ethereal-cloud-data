@@ -30,20 +30,7 @@
       "likes": 0
     }
   ],
-  "tracks": [
-    {
-      "id": "1776176576681544",
-      "title": "____-Daoko______",
-      "artist": "未知艺术家",
-      "album": "Recovered Album",
-      "cover": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500&q=80",
-      "url": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776167070306_____-Daoko______.mp3",
-      "lyrics": "",
-      "duration": "0:00",
-      "visible": true,
-      "createdAt": "2026-04-14T14:22:56.681Z"
-    }
-  ],
+  "tracks": [],
   "projects": [
     {
       "id": "1",
@@ -123,6 +110,13 @@
     }
   ],
   "activities": [
+    {
+      "type": "delete",
+      "message": "删除了曲目: ____-Daoko______",
+      "target": "____-Daoko______",
+      "id": "fnq82j6sq",
+      "time": "00:00"
+    },
     {
       "type": "delete",
       "message": "遗忘了技能节点《React》",
