@@ -140,10 +140,6 @@
     {
       "id": 1776176576794,
       "src": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776166994470_60f0bcfc7c05eadba3a664575ac3938f_1111464811342732132.jpg"
-    },
-    {
-      "id": 1776176577586,
-      "src": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776174399693_image.png"
     }
   ],
   "devices": [
@@ -156,7 +152,15 @@
       "image": "https://img4.pconline.com.cn/pconline/images/product/20251012/35488217.jpg"
     }
   ],
-  "activities": [],
+  "activities": [
+    {
+      "type": "delete",
+      "message": "删除了一张记忆照片",
+      "target": "记忆长廊",
+      "id": "v4zcq765e",
+      "time": "23:59"
+    }
+  ],
   "about": {
     "introduction": [
       "我自称「沐雪聆曦」，一名在二进制世界里寻找诗意的编梦人。从京都的清晨薄雾到赛博朋克的雨后霓虹，我的视觉语汇始终游走在两个世界的边界。",
