@@ -30,7 +30,20 @@
       "likes": 0
     }
   ],
-  "tracks": [],
+  "tracks": [
+    {
+      "id": "1776176576681544",
+      "title": "____-Daoko______",
+      "artist": "未知艺术家",
+      "album": "Recovered Album",
+      "cover": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500&q=80",
+      "url": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776167070306_____-Daoko______.mp3",
+      "lyrics": "",
+      "duration": "0:00",
+      "visible": true,
+      "createdAt": "2026-04-14T14:22:56.681Z"
+    }
+  ],
   "projects": [
     {
       "id": "1",
@@ -129,6 +142,58 @@
     {
       "id": 1,
       "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuA8XA3l2qKnYY8GpLpoytbfu5z-ddwi8YLgF1HGa70TK8rfyXHBNSdI36rW3-9KYlYiMfs4uqfKMl8Z0ZQoJpo8iB7tZjvjL-YUpqIUcdH_Uiicboigg16zjFrJFbPZwns4vq5-ws2gMioUFMg1T3XyUUYK19474xMdEbOSRlZowQmzYjlF1GP0HvnCBhqpKJCV16JceHToMnaQVs6_XLyl0MJb8lMq4uwDsps4T4iHUV1xiaPUXQY6289yLCJnjM7jXPOGG_CFL1k"
+    },
+    {
+      "id": 1776176577613,
+      "src": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776156199834_35de2acba9dbacf1a9c9f73fa6102345.jpg"
+    },
+    {
+      "id": 1776176577175,
+      "src": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776156894565_68b0bb6eb14145e958a4e3a438e36edc_1_.webp"
+    },
+    {
+      "id": 1776176576797,
+      "src": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776161605048______20250402201242.jpg"
+    },
+    {
+      "id": 1776176576853,
+      "src": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776162145237_68b0bb6eb14145e958a4e3a438e36edc_1_.webp"
+    },
+    {
+      "id": 1776176577598,
+      "src": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776165612045______2025-08-05_124145_578.webp"
+    },
+    {
+      "id": 1776176577064,
+      "src": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776165663571_35de2acba9dbacf1a9c9f73fa6102345.jpg"
+    },
+    {
+      "id": 1776176577289,
+      "src": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776166046186_38f48d6a0436441182e9c1c4bea5e89f.jpg"
+    },
+    {
+      "id": 1776176577341,
+      "src": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776166054304_56e74b378f392d91b13977539a3c042e_1_.webp"
+    },
+    {
+      "id": 1776176576837,
+      "src": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776166062147_59f22e068bd3dc95ab695b8c60eae169_1_.webp"
+    },
+    {
+      "id": 1776176577292,
+      "src": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776166071459______2025-01-15_210211_1_.webp"
+    },
+    {
+      "id": 1776176577217,
+      "src": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776166080512______20250402201242.jpg"
+    },
+    {
+      "id": 1776176576794,
+      "src": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776166994470_60f0bcfc7c05eadba3a664575ac3938f_1111464811342732132.jpg"
+    },
+    {
+      "id": 1776176577586,
+      "src": "https://raw.githubusercontent.com/XiYue-FireFly/ethereal-cloud-data/main/assets/1776174399693_image.png"
     }
   ],
   "devices": [
