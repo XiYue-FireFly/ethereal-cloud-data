@@ -1,0 +1,142 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "在星空的另一端：重塑我的\"沐雪聆曦\"世界",
+      "excerpt": "当我们穿越数字的海洋，每一个字符都像是一颗跳动的星辰。这个博客不仅仅是一个记录，它是我在虚拟现实中构建的避港。从最初的代码构想到现在的每一篇图文，都是我与灵魂对话的过程...",
+      "category": "沐雪志",
+      "date": "2024.10.15",
+      "views": "1,284",
+      "readTime": "8 min",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDA7AE24hTrqzO27ADiLmQ-R1Ot1mqP9wvtT2V9jde3XR4RzLseVhz9z04UH1flKxHRtCbBZavWp2gLj9f5lUyxCvUb7QxdTjM2B_Y-hHoZbZUL8HP3G3jiVp36oxsqWgTJNkttqAaDA3cO-LIC_G1hhyOpU0jc2bXD9dTrlGrMtOm2s-kWbwoSKsnM5AeiEVVK2ykOUa9RQW8XczRhB6WzjY1Tj8tZr4__Yk_g7A4WmeN2CWGsK709HdcDBVjEJ8nG409-18c9f2A",
+      "tags": [
+        "沐雪志",
+        "数字艺术"
+      ],
+      "content": "当我们穿越数字的海洋，每一个字符都像是一颗跳动的星辰。这个博客不仅仅是一个记录，它是我在虚拟现实中构建的避港。从最初的代码构想到现在的每一篇图文，都是我与灵魂对话的过程...",
+      "isFeatured": true,
+      "likes": 0
+    }
+  ],
+  "tracks": [],
+  "projects": [
+    {
+      "id": "1",
+      "title": "瑞希",
+      "description": "一款基于Astro构建的次世代Material Design 3博客主题。",
+      "status": "完成",
+      "category": "网页应用",
+      "tags": [
+        "Astro",
+        "TypeScript",
+        "Tailwind"
+      ],
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAch3rk_HZenJtNRENZ4S9thte1lpXZi4AWCgP4qsEzyl4o2ae5wZuaYoqsH7_J2UpCMslliwoCT4tBMP0OJhftTo7qJrhsayTHQVg0yWSByhRJCeJXM1rz8IaHbjexBwyz_jjCh1ik9gfiK7pVRMiEU8Q2o1JfEBxnMTVSsHZNfLkqLY7ogg36itbv5HHkvQvZOAUB7ix_eoAnHtxIHMXTy_VN-dFV4l750QZ66WATbcf8JZxjeazh0h-k0RuDs-4dN06r61dLBJ4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "React",
+      "exp": "4年实战经验",
+      "level": "上级者",
+      "progress": 92,
+      "icon": "Box",
+      "color": "text-blue-500",
+      "bg": "bg-blue-50"
+    }
+  ],
+  "secondarySkills": [
+    "Three.js",
+    "Docker",
+    "CI/CD"
+  ],
+  "languages": [
+    {
+      "name": "中文 (母语)",
+      "progress": 100
+    },
+    {
+      "name": "英语 (C1)",
+      "progress": 85
+    }
+  ],
+  "timeline": [
+    {
+      "id": "1",
+      "title": "学习计算机科学与技术",
+      "subtitle": "北京理工大学",
+      "description": "重点学习网页开发和软件工程。",
+      "date": "2022年9月至今",
+      "duration": "3年9个月",
+      "location": "北京",
+      "category": "教育背景",
+      "tags": [
+        "Java",
+        "Python",
+        "JS"
+      ],
+      "achievements": [
+        "GPA: 3.6"
+      ],
+      "isCurrent": true
+    }
+  ],
+  "anime": [
+    {
+      "id": "1",
+      "title": "莉可丽丝",
+      "rating": 9.8,
+      "year": "2022",
+      "studio": "A-1 Pictures",
+      "genres": [
+        "动作",
+        "校园"
+      ],
+      "episodes": 13,
+      "totalEpisodes": 13,
+      "status": "completed",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCo3E2C-Ng4ecORbgB26oplxL8Q91x8OGxdQUrSPnhhdXYRheWSAbwOruZJTQ_isvlZqCC4EQIOe1W0BH5h_Fyq7fVOTjx68UBbIE2xvdt8w4UNOFaGBN3omJRmQn83-Eyqg6byNTp-KldM_uXVarr3-k0dLTLrYQiyl7ZtahBu7zSN6EXksIWnzVP4GsZ846jwuXUI1F-VP240mrMbfIilnEyiubKj36-tHBmoukGHa8uJ0VyZxujDUQH7sBxL4nke47L2XeqnSoM"
+    }
+  ],
+  "albums": [
+    {
+      "id": "1",
+      "title": "一些很漂亮的照片",
+      "description": "世界辽阔，你必须去探索它。",
+      "date": "2025/8/1",
+      "location": "Bilibili",
+      "photoCount": 22,
+      "tags": [
+        "可爱"
+      ],
+      "category": "可爱",
+      "coverImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuAch3rk_HZenJtNRENZ4S9thte1lpXZi4AWCgP4qsEzyl4o2ae5wZuaYoqsH7_J2UpCMslliwoCT4tBMP0OJhftTo7qJrhsayTHQVg0yWSByhRJCeJXM1rz8IaHbjexBwyz_jjCh1ik9gfiK7pVRMiEU8Q2o1JfEBxnMTVSsHZNfLkqLY7ogg36itbv5HHkvQvZOAUB7ix_eoAnHtxIHMXTy_VN-dFV4l750QZ66WATbcf8JZxjeazh0h-k0RuDs-4dN06r61dLBJ4"
+    }
+  ],
+  "memories": [
+    {
+      "id": 1,
+      "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuA8XA3l2qKnYY8GpLpoytbfu5z-ddwi8YLgF1HGa70TK8rfyXHBNSdI36rW3-9KYlYiMfs4uqfKMl8Z0ZQoJpo8iB7tZjvjL-YUpqIUcdH_Uiicboigg16zjFrJFbPZwns4vq5-ws2gMioUFMg1T3XyUUYK19474xMdEbOSRlZowQmzYjlF1GP0HvnCBhqpKJCV16JceHToMnaQVs6_XLyl0MJb8lMq4uwDsps4T4iHUV1xiaPUXQY6289yLCJnjM7jXPOGG_CFL1k"
+    }
+  ],
+  "devices": [
+    {
+      "id": "1",
+      "name": "OPPO Find X9 Pro",
+      "specs": "16G + 1TB",
+      "color": "大漠银月",
+      "description": "旗舰性能，超光影影像。",
+      "image": "https://img4.pconline.com.cn/pconline/images/product/20251012/35488217.jpg"
+    }
+  ],
+  "activities": [],
+  "about": {
+    "introduction": [
+      "我自称「灵犀」，一名在二进制世界里寻找诗意的编梦人。从京都的清晨薄雾到赛博朋克的雨后霓虹，我的视觉语汇始终游走在两个世界的边界。",
+      "我相信每一处代码的逻辑背后都潜藏着情感的脉动。这里不仅是信息的堆砌，更是一场关于光影、叙事与审美自觉的持久探索。于漫长岁月中，寻觅那一张不谢的繁华。"
+    ],
+    "quote": "“于漫长岁月中，寻觅那一张不谢的繁华。”",
+    "bannerText": "DREAM WITHOUT BOUNDARIES",
+    "bannerImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuCw-LVL_pBKkPfEDCVDusxJzG-mDHla_CuAxrw5yd37ADXV_rXLhjv6HRHvGQGCNlyfEOmh8rlzu0uGeVb6cN185djSBDgyywIFSmRdksMzbB1BFHVsrdtYNpSQ1v0QCwafi5FxdtE2d0EaOKv2P0FYb2arxwwCOeS8BiLxEZ40BZRmkvTFLPKEdVp7AnrgNwejXuVgDETwh7tO2pqOfiKDVPE6-2qmRmQ93U5CLWlwynkhHEDFSGXGUth3wsLVpEEpYg-dJD-cYwQ"
+  }
+}
