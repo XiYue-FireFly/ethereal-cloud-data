@@ -238,8 +238,6 @@
       "time": "23:59"
     }
   ],
-  "resources": [],
-  "assetLogs": [],
   "about": {
     "introduction": [
       "我自称「沐雪聆曦」，一名在二进制世界里寻找诗意的编梦人。从京都的清晨薄雾到赛博朋克的雨后霓虹，我的视觉语汇始终游走在两个世界的边界。",
@@ -248,5 +246,7 @@
     "quote": "“于漫长岁月中，寻觅那一张不谢的繁华。”",
     "bannerText": "DREAM WITHOUT BOUNDARIES",
     "bannerImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuCw-LVL_pBKkPfEDCVDusxJzG-mDHla_CuAxrw5yd37ADXV_rXLhjv6HRHvGQGCNlyfEOmh8rlzu0uGeVb6cN185djSBDgyywIFSmRdksMzbB1BFHVsrdtYNpSQ1v0QCwafi5FxdtE2d0EaOKv2P0FYb2arxwwCOeS8BiLxEZ40BZRmkvTFLPKEdVp7AnrgNwejXuVgDETwh7tO2pqOfiKDVPE6-2qmRmQ93U5CLWlwynkhHEDFSGXGUth3wsLVpEEpYg-dJD-cYwQ"
-  }
+  },
+  "resources": [],
+  "assetLogs": []
 }
