@@ -22,8 +22,8 @@
   "projects": [
     {
       "id": "1",
-      "title": "瑞希",
-      "description": "一款基于Astro构建的次世代Material Design 3博客主题。",
+      "title": "FireFly",
+      "description": "博客。",
       "status": "完成",
       "category": "网页应用",
       "tags": [
